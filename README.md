@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Ke and I am a second year Software Engineering student at the University of Waterloo.
+I love learning and exploring different areas of the tech field!
+
+‣ ⚡ I have recently worked at an AI startup company as a Software Developer. During my time there, I worked on full-stack web development projetcs using the MERN stack, and            applications on IoT devices using Python, Node.js and GCP.
+‣ 🌱 I’m currently very interested to learn more about Cloud architecture and development!
+‣ 📫 Reach me at k92xu@uwaterloo.ca
+
+Feel free to message me, I'd love to hear about your experience or discuss about the tech field!
+
 <!--
 **kexu02/kexu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
