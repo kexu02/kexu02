@@ -3,7 +3,7 @@
 My name is Ke and I am a third year Software Engineering student at the University of Waterloo.<br />
 I love learning and exploring different areas of the tech field!<br />
 <br />
-‣ ⚡ I have recently worked at an AI startup company as a Software Developer. During my time there, I worked on full-stack web development projects using the MERN stack, and            applications on IoT devices using Python, Node.js and GCP.<br />
+‣ ⚡ I have worked at an AI startup company as a Software Developer. During my time there, I worked on full-stack web development projects using the MERN stack, and            applications on IoT devices using Python, Node.js and GCP.<br />
 ‣ 🌱 I’m currently very interested to learn more about Cloud architecture and development!<br />
 ‣ 📫 Reach me at k92xu@uwaterloo.ca<br />
 <br />
